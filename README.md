@@ -16,7 +16,7 @@ Este é um **plugin não oficial** da Datadog que utiliza a API da Datadog para 
 ## Instalação
 
 1. Adicione este plugin à lista de "confiáveis" usando, por exemplo, uma variável de ambiente:
-   ```plaintext
+   ```
    GF_PLUGINS_ALLOW_LOADING_UNSIGNED_PLUGINS=metric-datadog-datasource
 ```
 2. Instale descompactando para o diretório do plug-in ou usando a variável env, ou seja:
